@@ -1,0 +1,3 @@
+Name,Description,Publication Year,Publicationlink
+StreptomeDB,"StreptomeDB is a repository of compounds obtained from Streptomyces spp.The data within it was gathered through a combination of text mining and manual creation of numerous abstracts and full papers,utlizing both an in house platform and two external databases.",2013,http://www.pharmbioinf.uni-freiburg.de/streptomedb
+DoBISCUIT,"atest iteration of DoBISCUIT is dedicated to bacterial-derived secondary metabolites,with a particular emphasis on those originating from actinomycetes. The primary dataset of DoBIDCUIT is derived from entries in the INSDC,each detailing a biosynthetic cluster associated with a known bacterial secondary metabolit",2013,https://www.nite.go.jp/en/index.html

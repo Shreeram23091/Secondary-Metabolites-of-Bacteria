@@ -1,0 +1,568 @@
+Disease,DiseaseID,PMID_List,length
+"(1)H-(1)H COSY, (1)H-(13)C HMBC",D000848,[23979826],1
+AF,D001281,[26466717],1
+AIDS,D000163,[23644174],1
+ARBS,D058745,[22476960],1
+AVMs,C564254,[29049952],1
+Acidic pH shock,D012769,[25605030],1
+Allosalinactinospora lopnorensis CA15-2(T,C000657245,[26864220],1
+Alzheimer diseases,D000544,[28865203],1
+Alzheimer's disease,D000544,[23775636],1
+Antarctic bacteria,C537702,[23619351],1
+Antarctic sub-sea,D007246,[27128927],1
+Aplysilla rosea,D017515,[27717966],1
+Aplysina Red Band Syndrome,D058745,[22476960],1
+BRAF-wild-type disease,D003141,[28923537],1
+Bifurcaria bifurcata epiphytic bacteria,C537702,[24663118],1
+British Columbia,176500,"[24130838, 27812802]",2
+C-A-T-C-A-T-E-C-A-T-C,C537418,[22825833],1
+CF,D003550,[29069388],1
+CHA0 toxicity,D064420,[17088380],1
+CHA0(T,D001260,[21392918],1
+CRC,D015179,"[25198138, 29889418]",2
+California,D004670,[26474119],1
+California harbor,C537062,[23229438],1
+Cancer,D009369,[18955814],1
+Candida infections,C536777,[27648556],1
+"Clathria procera, Sigmadocia fibulata and Dysidea granulosa",D006106,[22806873],1
+Clonostachys rosea lactonohydrolase,D017515,[28438205],1
+Cold,D000067390,[28726195],1
+Colon Tumor,D003110,[19370169],1
+CorS,D011660,[14651344],1
+Crohn's disease,D003424,[22016433],1
+Cutaneous cocci,D017577,[4911442],1
+Cyanobacteria harmful algal blooms,D001816,[24275084],1
+Cystic Fibrosis,D003550,"[23619351, 27465850]",2
+Cytotoxicity,D064420,[20082446],1
+DM,D009223,[16230654],1
+DW,D015431,[28219296],1
+Dysbiosis,D064806,[28936425],1
+Dysidea avara and Ircinia variabilis,D056266,[12918917],1
+Dysidea granulosa,D006106,[22221759],1
+EC,D005955,[17499938],1
+EC,D013479,[27192145],1
+EHEC,D004927,[25290220],1
+Edwardsiella tarda-infected,D007239,[27192145],1
+Entomopathogenic bacteria Xenorhabdus,C537702,[24599183],1
+Fabry's disease,D000795,[8988598],1
+Fancsika bloom,D001816,[24293352],1
+"Franco P, Tambuwala MM",C000656865,[28360029],1
+Frankia genus,D056304,"[21498757, 20190089]",2
+Fungus Clonostachys rosea YRS,D017515,[26974009],1
+GacA deficiency,D007153,[14651344],1
+Glucose Soyabean meal broth,D044882,[25406714],1
+Glucose metabolism,D044882,[8485146],1
+Glucose repression,D044882,[549988],1
+HDR,C537907,[25806970],1
+HI,C538424,[20951024],1
+HIV,D015658,"[21116414, 27898308]",2
+"HMQC, (1)H-(1)H COSY",D000848,[22611356],1
+HPLC-UV-Vis-QToF-MS,D009103,[24868880],1
+Hancornia speciosa latex,D020315,[20960060],1
+HeLa (human cervix adenocarcinoma) cancer,D002583,[28592323],1
+Heterorhabditis nematodes,D009349,"[23053483, 28246174]",2
+Hypersensitive,D004342,[25101956],1
+IBD,D015212,[29889418],1
+Infection of Galleria mellonella,D007239,[12788281],1
+Infections,D007239,"[22786554, 26832668]",2
+Kelly OB,C567101,[28360029],1
+Klebsiella,D007710,"[20960060, 24069601]",2
+Klebsiella pneumoniea,D007710,[22221759],1
+L-rhamnopyranoside,D005645,[18758096],1
+LLC,D018827,[9933987],1
+Legionnaires' disease,D007877,[28116768],1
+Leishmania promastigotes,D007896,[15388442],1
+Lewis lung carcinoma,D018827,[9933987],1
+Lichen Symbiosis,D064806,[28361265],1
+MBC,D001943,[25213366],1
+MCF-7 cancer,D009369,"[26466995, 24453828]",2
+Melanoma,D008545,[28923537],1
+Metabolic dysbiosis,D064806,[29889418],1
+Microbial Mouth Infection,D007239,[28083890],1
+Microcystis bloom,D001816,[28730710],1
+Microcystis blooms,D001816,"[28730710, 18534010]",2
+Mortality,D003643,[27702563],1
+Myrica gale-Frankia actinorhizal symbiosis,D064806,[20190089],1
+N-AHLs,C536108,[12519208],1
+NAD(P)H-hydrate dehydratation,C000656865,[22940582],1
+NIDDM,D003924,[20378050],1
+NP(1-3)EC,D020754,[21128606],1
+NPS,D009261,[22140558],1
+Nocardia and Gordonia,D009617,[21060211],1
+Non-Insulin-Dependent Diabetes Mellitus,D003924,[20378050],1
+Oklahoma,C537147,[24595070],1
+Osmotic Stress,D000079225,[26139611],1
+PD,D010300,"[19806188, 22671027]",2
+Paget's disease,C538098,[29196786],1
+Parkinson disease,D010300,[19806188],1
+Peziza petersi belonging,D019967,[12234354],1
+Photorhabdus bacteria,C537702,[24127069],1
+Photorhabdus luminescens-nematode symbiosis,D009349,[28246174],1
+Photorhabdus-nematode symbiosis,D009349,[27555343],1
+Planktothrix blooms,D001816,[27307781],1
+Polystigma deformans,D007873,[22536997],1
+Psychotria leaf nodule symbiosis,D064806,[23902262],1
+RHL,C537062,[27626430],1
+Rabigh harbor lagoon,C537062,[27626430],1
+Ralstonia decreased,D002303,[25996156],1
+Rhodococcus fascians infection,D007239,[23771021],1
+Rickettsia,D012282,[26866478],1
+SOB disease,D058745,[21118276],1
+Saccharopolyspora spinosa WT,C536751,[23924726],1
+Sphingopyxis genus,D056304,[26847793],1
+"Steinernema (Steinernematidae, Nematoda) infected Galleria mellonella",D007239,[12788281],1
+Stress,D000079225,"[27730337, 27412582, 27648556]",3
+Tethya rubra Samaai,D008883,[28346340],1
+Toxicity,D064420,"[24141121, 15266809, 17295279, 18605256]",4
+Tumors,D009369,[28923537],1
+Twitching Motility,D015835,[26360465],1
+Type II diabetes,D003924,[20378050],1
+ViI,D016538,[25118075],1
+Williams,D018980,[15078513],1
+Xenorhabdus nematophila TB,D014390,[24599183],1
+abiotic stress,D000079225,"[26160390, 19946877]",2
+abiotic stresses,D000079225,[27624083],1
+accE,D058540,[11526020],1
+acidic pH shock,D012769,[25605030],1
+acute myeloid leukemia,D015470,[29196786],1
+adenocarcinoma,D000230,"[29216824, 28592323]",2
+aeruginosa PA,D011552,[21086131],1
+aeruginosa attenuated,C538265,[20705730],1
+aeruginosa biofilms,D011552,"[15504865, 11782502]",2
+aeruginosa infections,D011552,[27465850],1
+aeruginosa virulence,D011552,"[27465850, 28255686, 10500159]",3
+agitation,D011595,[23296917],1
+agitation system,D011595,[10908794],1
+agricultural fungal disease,D009181,[22536997],1
+albogriseolus NRRL B-1305(T,D006509,[26293487],1
+algal blooms,D001816,"[24646695, 21477107, 25325384, 23315747]",4
+alkaloid rich lupin Lupinus angustifolius,D000080203,[26189714],1
+allergic,D004342,[21925860],1
+allergic alveolitis,D004342,[21622270],1
+amoebiasis,D000562,[22763704],1
+anemia,D000740,[24070833],1
+arctic flora,C537944,[27159387],1
+arctic sponge Haliclona viscosa,D007691,[20411111],1
+aromatic plant Mentha piperita,D010939,[21843946],1
+arrest,D006323,"[21326924, 23870821]",2
+arthritis,D001168,[25824130],1
+ascidian Phallusia nigra,C000656904,[25572211],1
+asthma,D001249,"[15910530, 28219296, 28623383]",3
+atherogenesis,D050197,[29889418],1
+atoxigenic Aspergillus flavus,D001228,[25427716],1
+aureus infections,D013203,[23374132],1
+autism and schizophrenia,D012559,[29889418],1
+autoimmune diseases,D001327,[22913826],1
+autoimmune disorders,D001327,[21498065],1
+bacteremia,D016470,[20522739],1
+bacteria Xenorhabdus nematophila,C537702,[28062794],1
+bacterial consortia growth,D016920,[21782215],1
+bacterial detachment,D016920,[11782502],1
+bacterial disease,D001424,"[23412059, 24884988, 20372017]",3
+bacterial diseases,D001424,"[21152942, 12619819, 25635112]",3
+bacterial dysbiosis,D064806,[29113654],1
+bacterial fitness,D016920,[20687809],1
+bacterial infection,D001424,"[20962140, 28394295, 17499938]",3
+bacterial infections,D001424,"[22975171, 22170780, 28642945, 23885762, 27033000]",5
+band (SOB) disease,D058745,[21118276],1
+black band consortia,D058745,[26495995],1
+black rot disease,D005535,[26767576],1
+bloody diarrhea,D003967,[25290220],1
+blooms,D001816,"[21724952, 23807545, 28283295]",3
+blue-pigmented,D010859,[25819962],1
+bowel diseases,D015212,[28360029],1
+brasilianum Secondary Metabolism,D060085,[28632186],1
+breast adenocarcinoma,D001943,[28358337],1
+breast cancer,D001943,"[28383816, 29248948, 25742265, 28369962]",4
+breast tumor,D001943,[28383816],1
+breath,D004417,[367217],1
+brood disease,D003141,[25904391],1
+cancer,D009369,"[25198138, 25131404, 29113654, 21498065, 21116414, 28383816, 21326924, 21222136, 20155945, 24612332, 27419387, 8538208, 21601100, 27903896, 28764775, 11109318, 24691280, 22536997, 23564162, 25559405, 24136453, 19754167, 19943200, 17436635, 29111481, 19778959, 21533272, 29216824, 16830891, 23771021, 17965706, 15702315, 27169191, 29248948, 20849448, 27898308, 28648623, 25629545, 24689437, 22913826, 28040597, 28762997, 23922738, 23644174, 21683100, 27128202, 29196786, 28590072, 28592323, 19040244, 26051670, 27760211, 28253280, 23417448, 27072394, 17560324, 25385358, 22494896, 19370169, 28672096]",60
+cancerous,D009369,"[24587717, 26809052, 27554496]",3
+cancers,D009369,"[28604647, 28253280, 18511939, 28865203]",4
+candidiasis,D002177,[22698715],1
+carcinogenesis,D063646,"[25198138, 29113654]",2
+carcinogenic,D063646,"[28078980, 24779771]",2
+cardiac glycosides,D006331,"[27166532, 21796935, 24941164, 27842527]",4
+cardiotonic glycosides,C563601,[20527468],1
+cardiovascular disease,D002318,[29889418],1
+cardiovascular diseases,D002318,[29889418],1
+catalase-deficient,D020642,[20530195],1
+cervical carcinoma,D002583,[22203554],1
+charcoal rot disease,D005535,[24037513],1
+cholera,D002771,[27917206],1
+chronic copper stress,D000079225,[21384090],1
+chronic diseases,D002908,[20378050],1
+coinfection,D060085,[26832668],1
+cold,D000067390,[24150693],1
+coli heat shock protein HtpG,D012769,[27412582],1
+colon adenocarcinoma,D003110,[23922738],1
+colon cancer,D015179,"[25559405, 28067831]",2
+colon carcinoma,D003110,[15078513],1
+colonial planktonic Microcystis aeruginosa,D011552,[27263013],1
+colonial tunicate Lissoclinum patella,C535540,[24788869],1
+colonic,D003110,"[22016433, 23349065, 26272259]",3
+colonic bacteria,D003110,[11195098],1
+colonic bacterial metabolism,D016920,[22016433],1
+colonic inflammation,D007249,[28360029],1
+colonic luminal bacterial,D016920,[26272259],1
+colonic metabolism,D003110,[21207512],1
+colorectal cancer,D015179,"[25198138, 29889418, 21207512, 25527542, 25690418]",5
+colorectal cancers,D015179,[29113654],1
+common cold,D003139,[26466717],1
+complement gacS,D007153,[10869066],1
+coral black band disease,D058745,[18783385],1
+coral fitness,D012640,[27795310],1
+cough,D003371,"[23255442, 28623383]",2
+coughs,D003371,[23190550],1
+cretacea NBRC 15474(T,D001260,[26452464],1
+critically ill,D016638,[15504865],1
+crop disease,D003141,[25826255],1
+crotonobetaine hydration reaction,D064420,[14595781],1
+crotonobetaine reduction reaction,D007022,[14595781],1
+crucial diseases,D003141,"[27898308, 28040597]",2
+cyclic lipodepsipeptides,C536899,[28335605],1
+cystic fibrosis,D003550,"[25809238, 22077225, 15870443, 29069388, 23374132, 20111686]",6
+cytotoxicities,D064420,"[22536997, 28358337]",2
+cytotoxicity,D064420,"[20659313, 20082446, 17552225, 26861361, 16830891, 18214603, 23095088, 29066791, 28169241, 28246174, 28535606, 26318027, 26369437, 24689437, 26961755, 22077225, 23922738, 26809052, 15388442, 24923764, 23775636, 20061160, 24070833, 26051670, 27760211, 28035958, 22494896, 27554496, 28442411, 28672096]",30
+"dTDP-glucose 4,6-dehydratase",D005955,[26432787],1
+death,D003643,"[28062794, 15006783, 20659313, 11109318, 24240146, 19806188, 22975171, 19769587, 23184174, 23496097, 18534010, 20180120, 21999169, 20681593, 25044543, 20372017, 28051856, 27648556, 6347279]",19
+deaths,D003643,"[22975171, 22763704, 22173186]",3
+decrease hyperglycaemia,D002303,[6400479],1
+decreased HeLa or MCF-7 cancer,D009369,[28592323],1
+decreased disease,D002303,[27863465],1
+degenerative diseases,D019636,[19362647],1
+depressed,D000275,"[12730372, 1770350]",2
+depressive,D000275,[1770350],1
+detached tomato fruits,D012163,[24599183],1
+di,D003643,[22548364],1
+diabetes,D003920,"[28936425, 22077225, 6400479, 19370169]",4
+diabetes mellitus,D003920,"[23190550, 28917933]",2
+diabetic,D003920,[26721714],1
+diarrhea,D003967,"[27192209, 18308354]",2
+diarrheagenic Escherichia coli,D004927,[25958185],1
+dictyoceratid sponge Dysidea herbacea,D007691,[9582417],1
+drug-resistant infections,D000069279,[29259290],1
+dry biomass,D015352,[26638490],1
+dry weight,D015431,"[28219296, 15294785]",2
+dwelling actinomycetes,D000193,[21498757],1
+dwelling bacteria,C537702,[24667326],1
+dwelling bacteria Xanthomonas pisi,C537702,[28931093],1
+dwelling filamentous bacteria,C579880,[25539760],1
+dwelling nematode,D009349,[20884343],1
+dysbiosis,D064806,"[29889418, 28936425]",2
+dysmetabolism,D024821,[29889418],1
+earthy tastes,D013651,[19031897],1
+endocarditis,D004696,"[25902328, 25553429]",2
+energy homoeostasis,D011502,[27822648],1
+enterohemorrhagic Escherichia coli,D004927,[25290220],1
+entomopathogenic bacterium Xenorhabdus nematophila secretes,D002640,[24500481],1
+entomopathogenic nematode,D009349,"[25666178, 23979826, 22332977]",3
+entomopathogenic nematode Heterorhabditis,D009349,[27889603],1
+entomopathogenic nematode Heterorhabditis megidis,D009349,[27889603],1
+entomopathogenic nematode Heterorhabditis sonorensis,D009349,[23053483],1
+entomopathogenic nematode Rhabditis,D009349,[25666178],1
+"entomopathogenic nematode, Rhabditis",D009349,[23979826],1
+entomopathogenic nematode-bacteria,D009349,[26187596],1
+entomopathogenic nematodes,D009349,[28062794],1
+entomopathogenic nematodes of the genus Steinernema,D009349,[24904010],1
+epidermoid carcinoma in the mouth,D002294,[29248948],1
+epiphytic fitness,D012640,[23035953],1
+fastidiosa growth,D006130,[19813054],1
+fastidiosa infections,D007239,[22671027],1
+fever,D005334,[23255442],1
+fibrosarcoma,D005354,[9436194],1
+filamentous,C579880,[23922738],1
+filamentous actinobacteria,C579880,[23963177],1
+filamentous actinomycetes,D000193,[21622270],1
+filamentous bacteria,C579880,"[22252012, 24963940, 28521336, 21643706]",4
+filamentous cyanobacteria,C579880,[25412549],1
+filamentous cyanobacteria Planktothrix,C579880,[27307781],1
+filamentous epiphytic,C579880,[23922738],1
+filamentous fungi,C579880,"[12969296, 16313990]",2
+filamentous mycelia,C579880,[24667326],1
+fitness,D012640,"[10972818, 11768529, 25410828, 26122961, 20008172, 21764930, 28557379, 22110622, 19322247, 22375709, 24425772, 2693613, 27631134, 25182327, 27491886]",15
+fitness benefits,D012640,[25100187],1
+fitness cost,D012640,[24425772],1
+fitness costs,D012640,[22110622],1
+fits,D012640,[15835722],1
+flagellar motility,D015835,[24739259],1
+flatulence,D005414,[26189714],1
+food poisonings,D005517,[5485731],1
+food-borne diseases,D005517,[12955583],1
+fruit fly infection,D007239,[20705730],1
+fruits infected,D007239,[19191973],1
+fungal infections,D009181,[19778959],1
+fungus Aspergillus parasiticus,D001228,[24948950],1
+fungus Cladonia rangiferina,D009181,[27091386],1
+fungus Clonostachys rosea,D017515,[26974009],1
+fungus Hypholoma fasciculare,D009181,[20555400],1
+fungus Hypholoma fasciculare colonizing wood,D003110,[20555400],1
+fungus Leucoagaricus gongylophorus,D009181,[21245311],1
+gacS-deficient,D007153,[19322247],1
+gall disease,D042882,[25764969],1
+galling,D042882,[15189291],1
+gastric ulcers,D013276,[24070833],1
+gastritis,D005756,[28623383],1
+gastrointestinal disease,D005767,[24612332],1
+gastrointestinal diseases,D005767,[22016433],1
+gastrointestinal tract cancers,D004067,[29113654],1
+gastrointestinal tract neoplasms,D004067,[29113654],1
+genera Klebsiella,D007710,[20960060],1
+genetic disease,D030342,[27465850],1
+genital disorders,D050035,[25824130],1
+genus Actinoalloteichus,D056304,[28770445],1
+genus Devosia,D056304,[22098388],1
+genus Frankia,D056304,[21498757],1
+genus Gordonia,D056304,[28105601],1
+genus Verrucosispora,D056304,"[15726289, 26975378]",2
+genus frankia,D056304,[21498757],1
+glioblastoma,D005909,"[23771021, 28358337]",2
+glucosidases,C565264,[19362651],1
+glycerolipid metabolism,D008659,[29094115],1
+glycosidic,C563601,[25795127],1
+gonococcal,D006069,[25673666],1
+gonococcal growth,D006130,[25673666],1
+growth arrest,D006323,[27404808],1
+growth defects,D006130,[20687809],1
+growth retardation,D006130,[27523480],1
+haemolysis,D006461,[28270264],1
+halophilic actinomycetes belonging,D000193,[23129307],1
+halotolerant actinomycetes,D000193,[23129307],1
+halotolerant plant growth promoting rhizobacteria,D010939,[23085953],1
+headaches,D006261,[11109318],1
+heat shock proteins,D012769,[28003198],1
+hemolysis,D006461,"[19409488, 25897029]",2
+hemolysis and emulsification,D006461,[26588432],1
+hemolytic phospholipase C,C537418,[23457628],1
+hepatic carcinoma,D056486,[22203554],1
+hepatitis,D056486,[28623383],1
+hepatoma,D006528,[28535606],1
+hepatoma HepaRG,D006528,[28535606],1
+hepatotoxic,D056486,[28944994],1
+hsp,D012769,[28003198],1
+human T-cell leukemia,D015459,[26593927],1
+human diseases,D015658,[22545867],1
+human renal cancer,D007680,[25742265],1
+hydroid polyp Hydractinia echinata,D011127,[28893599],1
+hydrophila infection,D007239,[25703710],1
+hyperactive,D006948,[28320949],1
+hypercalcemia,D006934,[29196786],1
+hyperlipidemia,D006949,[21498065],1
+hyperoestrogenic syndromes,D061325,[28438205],1
+hyperplasia,D006965,"[23771021, 19118125]",2
+hypersensitive,D004342,"[12741179, 20530195, 9781871, 24131360]",4
+hypersensitive reaction,D004342,"[9150595, 11310739, 14651344]",3
+hypersensitivity pneumonitis,D000542,[15910530],1
+hypertensives,D006973,[22975171],1
+hypertonic,D009122,[23148661],1
+hyphal attachment,D019962,[20088961],1
+hypotensive,D007022,[6400479],1
+hypoxia,D000860,[28205416],1
+hypoxic,D000860,"[23314096, 19018016]",2
+hypoxic conditions,D000071069,[19018016],1
+impaired growth,D006130,[16151202],1
+inability,D007319,"[15823390, 23053483, 21651627]",3
+infected,D007239,"[27192145, 29119317, 27306928, 18500633, 20597908, 25398871, 12788281, 20814727, 28454711, 19778959, 23771021, 24399857, 25904391, 19522562, 993114, 21830789, 25489722, 23586643, 27231874, 20530195, 26270176, 22642821, 22173186, 27760211, 25044543, 22671027, 25250839, 19118125, 28164793]",29
+infection,D007239,"[25131404, 25958185, 22445190, 21498065, 21114519, 26477831, 22091965, 23808337, 21222136, 23981049, 27192145, 24612332, 10931301, 27863465, 18392685, 18783385, 23493063, 12788281, 16503283, 22767929, 20687809, 23771021, 18214603, 20941490, 3112182, 19769587, 23095088, 25489722, 28246174, 23586643, 23295683, 28153766, 8989880, 21118276, 20530195, 23457254, 26895868, 28421168, 21520711, 26270176, 24130811, 21421390, 27487455, 25529345, 1957296, 23002228, 28116768, 24884988, 24445449, 25525785, 25044543, 25101956, 23457628, 26272259, 22671027, 19018016, 22039419, 19118125, 3882051, 19054330, 19370169]",61
+infections,D007239,"[20411112, 26028341, 20962140, 26863741, 29275130, 21245311, 27306928, 25904019, 12788281, 22786554, 25553429, 25594287, 21830789, 21796935, 15504865, 11178336, 26895868, 23132656, 27437994, 28705748, 26001558, 21193844, 28040597, 20522739, 26270176, 25551660, 25824130, 29069388, 28642945, 24070833, 25897029, 27760211, 27823963, 28392457, 20705730, 22039419, 23885762, 23342508, 26790415, 19054330, 26070141]",41
+infectious diseases,D003141,"[21116414, 21222136, 27419387, 25879877, 25431089, 22975171, 15719553, 22913356, 27437994, 26001558, 6400479, 23210781, 25205608]",13
+infectious motile,D015835,[25624477],1
+inflammation,D007249,"[25198138, 29113654, 28383816, 24612332, 25594287, 28360029, 28392457, 24353343, 26272259, 18308354]",10
+inflammatory bowel disease,D015212,"[29889418, 24612332]",2
+inflammatory diseases,D007249,[25594287],1
+intestinal disorders,D007410,[28360029],1
+intestinal inflammation,D007249,[18308354],1
+iron excess diseases,C562385,[17191682],1
+irritation symptoms,D051271,[15910530],1
+ischemic,D007511,[28383816],1
+jaundice,D007565,[24070833],1
+jock itch,D011537,[23979826],1
+joints,D007592,[25553429],1
+keratoconjunctivitis,D007637,[25824130],1
+leprosy,D007918,[28219296],1
+lethargy,D053609,[11109318],1
+leukaemia,D007938,[11109318],1
+leukemia,D007938,[23870821],1
+lichen Cladonia rangiferina,D018459,[27091386],1
+liver and kidney diseases,D008107,[29889418],1
+liver cirrhosis,D008103,[24612332],1
+liver disorders,D017093,[28442411],1
+livestock poisoning,D011041,[22130270],1
+loss of biomass,D014786,[19588186],1
+loss of flagella,D014786,[16913924],1
+loss of twitching motility,D015835,[19054330],1
+lung cancer,D008175,"[29216824, 28169241, 29248948, 28358337, 24217287]",5
+lung carcinoma,D008175,"[19754167, 29216824, 25385358]",3
+lung infection,D012141,[23457628],1
+lung metastases,D009362,[16988123],1
+lymphoma,D008223,[20061160],1
+malaria,D008288,"[23958059, 28040597]",2
+malignant cancerous,D009369,[29103733],1
+mastitis,D008413,[25824130],1
+melanoma,D008545,"[24691280, 16988123, 21642414, 28923537, 18062256, 9436194, 28035958]",7
+melanoma cancer,D009369,[25742265],1
+melanoma xenograft tumor,D008545,[16988123],1
+melioidosis,D008554,[24884988],1
+metabolic abnormalities,D008659,[29889418],1
+metabolic disorders,D008659,"[27822648, 22913826]",2
+metabolic dysbiosis,D064806,[29889418],1
+metabolic syndrome,D024821,[21207512],1
+metamorphosis of the bryozoan Bugula neritina,C536351,[25572211],1
+microbial mouth infections,D007239,[28083890],1
+middle ear,D010033,[25594287],1
+mortalities,D003643,"[27889603, 23295683, 12425071]",3
+mortality,D003643,"[28062794, 27192145, 26028341, 27795310, 27465850, 14962038, 24293352, 23296917, 12425079, 23295683, 23210781, 22173186, 18605256, 25044543, 15189291, 12425071, 24096416]",17
+moth Galleria mellonella infected,D007239,[27306928],1
+mouth infections,D007239,[28392457],1
+mucosal inflammation,D007249,"[28360029, 26272259]",2
+mucosal injury,D052016,[28360029],1
+multidrug-resistant infections,D018088,[27437708],1
+multiple bacterial infections,D001424,[21116414],1
+mushroom Pleurotus ostreatus,D009145,[24941164],1
+myelogenous leukemia,D007951,[20067528],1
+nausea,D009325,[11109318],1
+necrotic lesions,D009336,[25243954],1
+nematode deaths,D003643,[15189291],1
+nematode galling,D009349,[15189291],1
+nematode infections,D009349,[12788281],1
+nematode-infected plant diseases,D009349,[26058971],1
+nematodes Heterorhabditis bacteriophora,D009349,[27555343],1
+neopauciflora latex,D020315,[28392457],1
+neurobehavioral disorders,D019954,[28936425],1
+neuroblastoma,D009447,"[19806188, 28067831]",2
+neurodegeneration,D019636,[19806188],1
+neurodegenerative diseases,D019636,"[19806188, 19370169]",2
+neurological impairment,D009422,[15910530],1
+neurotoxic,D020258,"[24293352, 23296917, 19806188, 21393570]",4
+nocardiosis,D009617,"[23981049, 21060211]",2
+nontoxic algal blooms,D001816,[9306409],1
+nontoxic blooms,D001816,[10209871],1
+nosocomial infections,D003428,"[19409488, 23023950]",2
+novel Epsilonproteobacteria,C000657245,[18783385],1
+obesity,D009765,"[17344339, 28936425]",2
+obesity and type IV hyperlipidaemia,D009765,[6400479],1
+ocular infections,D015817,[25897029],1
+optical rotation,D009069,"[28392268, 12919806]",2
+oral infections,D007239,[22698715],1
+otitis,D010031,"[25553429, 25824130]",2
+pH shock,D012769,[25605030],1
+pain,D010146,[22173186],1
+paralysis,D010243,"[17088380, 20884343]",2
+paralytic,D007418,[20884343],1
+parasitic,D010272,[28561849],1
+parasitic diseases,D010272,[6400479],1
+parasitic nematode,D009349,[28454711],1
+partly complement the hemA1 deficiency,D007153,[29164655],1
+patella tunicate,C535540,[22123943],1
+periodontal disease,D010510,[22698715],1
+periodontitis,D010518,"[26477831, 25902328, 25553429]",3
+phage infection,D007239,[22717884],1
+pharyngitis,D010608,[25367342],1
+pigmentation,D010859,"[25325384, 15322739]",2
+pigmented,D010859,"[15006783, 21305330, 21424823, 23656323, 7229612, 21342469, 15916601, 21037009, 3901922, 28095778, 22068502, 24409758]",12
+pigmented  eepR,D010859,[28270264],1
+pigmented Serratia,D016868,[27809759],1
+pigments,D010859,"[15939351, 23851446]",2
+pilus tip,D060725,[19054330],1
+planktonic growth of virulent pneumococci,D006130,[27404808],1
+plantar oedema,D004487,[28392457],1
+pneumococcal infections,D011008,[27404808],1
+pneumonia,D011014,"[12919806, 25824130, 27404808, 2507445, 23457628]",5
+pneumophila encodes,D007877,[28116768],1
+poisoning,D011041,[28623383],1
+prostate cancer,D011471,[25385358],1
+prostatitis,D011472,[25553429],1
+protozoal infections,D020808,[27898308],1
+pulmonary hemorrhage,D006470,[15910530],1
+pulmonary infection,D012141,[15870443],1
+pupal deformities,D009140,[12425071],1
+putida(pAS-C8),613790,[12788752],1
+reduced disease symptoms,D013651,[26307771],1
+reduced fitness,D004827,[20687809],1
+renal failures,D051437,[25290220],1
+respiratory and gastrointestinal infections,D012818,[26001558],1
+respiratory and urinary infections,D012141,[27192209],1
+respiratory diseases,D012140,[28623383],1
+respiratory disorders,D012131,[21622270],1
+respiratory infections,D012141,"[15910530, 20797445, 28931063, 20111686]",4
+rhabditid entomopathogenic nematode,D009349,"[23979826, 22747978, 22332977, 24097052]",4
+rhamnogalacturonan II and apiogalacturonan,C537730,[28931093],1
+rheumatic diseases,D012216,[15910530],1
+rhizobia and Frankia bacteria,C537702,[22580697],1
+rhizobia-infected,D007239,[22432875],1
+rhizobia-legume symbiosis,D064806,[20190089],1
+rhizobial symbiosis,D064806,[18500633],1
+rickettsial,D012282,[26866478],1
+rubra Samaai,D008883,[28346340],1
+rupture,D012421,[23480526],1
+sarcoma,D012509,[1486236],1
+scab disease,D003141,[24678834],1
+scab disease of potato tubers,C538354,[25423263],1
+scab-infected,D007239,[19694949],1
+scabies,D012532,[19694949],1
+scabies cfa,D012532,[26991928],1
+scabies or scabiei,D012532,[19694949],1
+seafood-born infections,D007239,[22069558],1
+secondary fungal infections,D060085,[24612332],1
+sepsis,D018805,[18308354],1
+septicaemic disease,D003141,[1957296],1
+septicemia,D018805,[23053483],1
+sessile bacterial,D016920,[18648491],1
+shock,D012769,[25605030],1
+shock proteins,D012769,[25101956],1
+shock stress,D000079225,[27297891],1
+sickness behavior,D001523,[25525785],1
+skin infections,D007239,"[25431089, 25551660]",2
+soft coral Sinularia polydactyla,C562950,[20431617],1
+soilborne diseases,D003141,"[25512025, 21495154]",2
+soilborne plant diseases,D010939,"[11768529, 26655755]",2
+sponge Dysidea avara,D007691,[15085406],1
+sponge Dysidea herbacea,D007691,[18493654],1
+sponge orange band disease,D058745,[21118276],1
+stomach infection,D007239,[20230605],1
+stress,D000079225,"[18704271, 27795310, 11298223, 24869797, 28784988, 24326978, 25539760, 23184174, 27231874, 23457254, 28567675, 26048933, 23319638, 27926818, 26670415, 20852771, 26350134, 14651344]",18
+stresses,D000079225,"[28454711, 27231874, 15141066, 27412582, 26916832, 21520016, 25182327]",7
+subchronic toxicity HEAc,D064420,[24070833],1
+subdermal skin infections,D007239,[25431089],1
+suppression,D011596,[20457252],1
+take-all disease,601696,[14601668],1
+tarda-infected,D007239,[27192145],1
+testicular carcinoma,D013736,[29196786],1
+thiebautii blooms,D001816,[28067831],1
+tnaAB genes decreases the fitness,D006527,[27631134],1
+toxic blooms,D001816,[26703630],1
+toxicities,D064420,[27624083],1
+toxicity,D064420,"[21360140, 27889603, 24141121, 24500481, 28062794, 21326924, 15006783, 26028341, 19777825, 22098388, 25325384, 19806188, 25542142, 24275084, 28535606, 28654009, 23295683, 28267874, 23457254, 26895868, 27902921, 17295279, 21849072, 12918917, 25514094, 22380795, 17922765, 25742265, 28067831, 20884343, 27917206, 15233843, 23775636, 25594688, 24070833, 18605256, 27523480, 23566822, 9477250, 23417448, 27192209, 1920539, 29053003, 24575401, 27416557, 22039419, 28442411, 29117587]",48
+toxicity of HEAc,D064420,[24070833],1
+toxicity reduction of cancerogenic,D007674,[29053003],1
+toxigenic Aspergillus flavus,D001228,[25427716],1
+tuberculosis,D014376,"[25222744, 26975378, 23002228, 22173186, 26323856, 19018016, 27554496]",7
+tuberculosis Strain,D013180,[28647504],1
+tuberculosis infections,D007239,[23002228],1
+tumor,D009369,"[21672958, 29113654, 21116414, 28383816, 21326924, 19777825, 25527542, 1486236, 24691280, 19754167, 9933987, 16988123, 28472671, 26703630, 23289327, 15835721, 12693442, 9436194, 23481677, 22120076, 26593927, 28253280, 27272544, 19370169]",24
+tumor diseases,D009369,[26863741],1
+tumors,D009369,"[28383816, 16988123]",2
+tumour,D009369,"[25742265, 18511939, 17379718]",3
+tunnelling,D020425,[23157656],1
+turbellaria worms,D004320,[26347255],1
+twitching motilities,D015835,[23708134],1
+twitching motility,D015835,[19054330],1
+type II PKSs,D016532,[17722122],1
+type II diabetes,D003924,[20378050],1
+type III PKSs,C536044,[27350607],1
+ulcerative colitis,D003093,[22016433],1
+ulcers,D014456,"[24612332, 28219296]",2
+unique Verrucosispora,C566733,[22754340],1
+upper respiratory tract infections,D012141,[11109318],1
+urinary tract infections,D014552,[25553429],1
+vascular diseases,D000783,[28865203],1
+vietnamensis GIMV4.0001(T,D001260,[25687102],1
+viral diseases,D001102,[28394295],1
+viral infections,D001102,"[1957296, 23311635]",2
+virus-infected,D001102,[21830789],1
+vomiting,D014839,[18308354],1
+von Willebrand disease,D014842,[25114137],1
+water blooms,D001816,[10209871],1
+weight gain,D015430,[24070833],1
+x(pT)xEx,C562844,[21999169],1
