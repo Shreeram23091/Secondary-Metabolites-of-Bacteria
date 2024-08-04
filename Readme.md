@@ -35,7 +35,7 @@ This document provides a comprehensive overview of the workflows for processing 
 
 ## Task2: Mapping PMIDs to PMCIDs
 
-**File:** `Task3_Species_PressureDeepSea.csv`
+**File:** `Task3_Species_secondary metabolites of bacteria.csv`
 
 **Description:**
 - This step creates a mapping between `PMID` and `PMCID` by matching entries from `final_result_GENES.csv`.
@@ -45,10 +45,10 @@ This document provides a comprehensive overview of the workflows for processing 
 
 ## Task3: Incorporating Additional Data
 
-**File:** `Task3_Species_PressureDeepSea.csv`
+**File:** `Task3_Species_Secondary metabolites of bacteria.csv`
 
 **Description:**
-- This task extends the previous mapping by including additional columns from `Task3_Species_PressureDeepSea.csv`.
+- This task extends the previous mapping by including additional columns from `Task3_Species_Secondary metabolites of bacteria.csv`.
 - The combined dataset is saved as `final_result_species.csv`, which incorporates extra information alongside the `PMID` and `PMCID` mapping.
 
 ---
